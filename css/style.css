@@ -1,0 +1,27 @@
+@charset "UTF-8";
+h1{
+  background-color:#F3F372;
+  height:40px;
+  /*TODO:幅を400pxにしてください*/
+  width:200px;
+}
+a{
+    color:#F9DB57;
+    font-size:40px;
+}
+p {color:red;}
+h2 {
+  /*TODO:背景の色を#F3F372にしてください*/
+  background-color:#000000;
+  height:40px;
+  width:300px;
+}
+.highlight{
+color:E6855E;
+}
+img{
+  /*TODO:高さを300pxにしてください*/
+  height:30px;
+  /*TODO:幅を400pxにしてください*/
+  width:40px;
+}
