@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 h1{
   background-color:#F3F372;
   height:40px;
@@ -21,7 +21,7 @@ color:E6855E;
 }
 img{
   /*TODO:高さを300pxにしてください*/
-  height:300px;
+  height:30px;
   /*TODO:幅を400pxにしてください*/
   width:400px;
 }
